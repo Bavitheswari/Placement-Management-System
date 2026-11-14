@@ -72,12 +72,6 @@ with database connectivity.
 
 ## 📸 Screenshots
 
-Add screenshots of your actual application:
-
-- Login interface
-- Student management
-- Company management
-- Placement records
 
 ## ⚙️ Installation
 
